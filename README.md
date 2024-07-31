@@ -30,11 +30,11 @@
    - add more records and modify the config as you need
    ```javascript
    const routes = {
-     "docker.libcuda.so": "https://registry-1.docker.io",
-     "quay.libcuda.so": "https://quay.io",
-     "gcr.libcuda.so": "https://k8s.gcr.io",
-     "k8s-gcr.libcuda.so": "https://k8s.gcr.io",
-     "ghcr.libcuda.so": "https://ghcr.io",
+     "main.docker.team-cloud-drive-1.asia: "https://registry-1.docker.io",
+     "quay.team-cloud-drive-1.asia": "https://quay.io",
+     "gcr.team-cloud-drive-1.asia": "https://k8s.gcr.io",
+     "k8s-gcr.team-cloud-drive-1.asia": "https://k8s.gcr.io",
+     "ghcr.team-cloud-drive-1.asia": "https://ghcr.io",
    };
    ```
 
