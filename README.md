@@ -31,10 +31,10 @@
    ```javascript
    const routes = {
      "main.docker.team-cloud-drive-1.asia: "https://registry-1.docker.io",
-     "quay.team-cloud-drive-1.asia": "https://quay.io",
-     "gcr.team-cloud-drive-1.asia": "https://k8s.gcr.io",
-     "k8s-gcr.team-cloud-drive-1.asia": "https://k8s.gcr.io",
-     "ghcr.team-cloud-drive-1.asia": "https://ghcr.io",
+     "quay.docker.team-cloud-drive-1.asia": "https://quay.io",
+     "gcr.docker.team-cloud-drive-1.asia": "https://k8s.gcr.io",
+     "k8s-gcr.docker.team-cloud-drive-1.asia": "https://k8s.gcr.io",
+     "ghcr.docker.team-cloud-drive-1.asia": "https://ghcr.io",
    };
    ```
 
