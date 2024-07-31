@@ -13,13 +13,13 @@ TARGET_UPSTREAM = "https://registry-1.docker.io"
 [env.production]
 name = "cloudflare-docker-proxy"
 # routes = [
-#   { pattern = "docker.libcuda.so", custom_domain = true },
-#   { pattern = "quay.libcuda.so", custom_domain = true },
-#   { pattern = "gcr.libcuda.so", custom_domain = true },
-#   { pattern = "k8s-gcr.libcuda.so", custom_domain = true },
-#   { pattern = "k8s.libcuda.so", custom_domain = true },
-#   { pattern = "ghcr.libcuda.so", custom_domain = true },
-#   { pattern = "cloudsmith.libcuda.so", custom_domain = true },
+#   { pattern = "main.docker.team-cloud-drive-1.asia", custom_domain = true },
+#   { pattern = "quay.docker.team-cloud-drive-1.asia", custom_domain = true },
+#   { pattern = "gcr.docker.team-cloud-drive-1.asia", custom_domain = true },
+#   { pattern = "k8s-gcr.docker.team-cloud-drive-1.asia", custom_domain = true },
+#   { pattern = "k8s.docker.team-cloud-drive-1.asia", custom_domain = true },
+#   { pattern = "ghcr.docker.team-cloud-drive-1.asia", custom_domain = true },
+#   { pattern = "cloudsmith.docker.team-cloud-drive-1.asia", custom_domain = true },
 # ]
 
 [env.production.vars]
